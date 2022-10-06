@@ -1,0 +1,9 @@
+0.01	//dm
+0.02	//dr
+0.0025	//dt
+1500	//TIME
+1	//max_particle_size
+100	//TOTAL FRAMES;
+1.0	//length_x
+0.5	//length_y
+0.3	//init_velocity_x
