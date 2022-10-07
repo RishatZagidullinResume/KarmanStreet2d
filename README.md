@@ -21,7 +21,7 @@ The code solves the voritcity equation in 2D. The problem set is the one that ge
 
 ## Visualization and demo
 
-* For visualization purposes see __vorticity_graphics.py__ script. It uses **PyQt5** for a simple GUI interactible and **pyopengl** for visualization. The script accepts 1 command line arguments. For example, `python3 2d_py.py 100 8 4` meaning: 100 time iterations are going to be visualized.
+* For visualization purposes see __vorticity_graphics.py__ script. It uses **PyQt5** for a simple GUI interactable and **pyopengl** for visualization. The script accepts 1 command line argument. For example, `python3 2d_py.py 100` meaning: 100 time iterations are going to be visualized.
 
 * Below is an example of the numerical solution.
 
